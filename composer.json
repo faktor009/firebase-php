@@ -1,5 +1,5 @@
 {
-    "name": "kreait/firebase-php",
+    "name": "faktor009/firebase-php",
     "description": "A PHP client for the Google Firebase Realtime Database",
     "keywords": ["firebase", "rest", "api", "http"],
     "homepage": "https://github.com/kreait/firebase-php",
